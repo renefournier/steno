@@ -1,1 +1,1 @@
-# stenographer
+# steno
